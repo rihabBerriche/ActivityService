@@ -1,0 +1,8 @@
+C:\Users\rihab\activity\src\Actia.Common\bin\Debug\netstandard2.0\Actia.Common.deps.json
+C:\Users\rihab\activity\src\Actia.Common\bin\Debug\netstandard2.0\Actia.Common.dll
+C:\Users\rihab\activity\src\Actia.Common\bin\Debug\netstandard2.0\Actia.Common.pdb
+C:\Users\rihab\activity\src\Actia.Common\obj\Debug\netstandard2.0\Actia.Common.csprojAssemblyReference.cache
+C:\Users\rihab\activity\src\Actia.Common\obj\Debug\netstandard2.0\Actia.Common.AssemblyInfoInputs.cache
+C:\Users\rihab\activity\src\Actia.Common\obj\Debug\netstandard2.0\Actia.Common.AssemblyInfo.cs
+C:\Users\rihab\activity\src\Actia.Common\obj\Debug\netstandard2.0\Actia.Common.dll
+C:\Users\rihab\activity\src\Actia.Common\obj\Debug\netstandard2.0\Actia.Common.pdb
